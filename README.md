@@ -1,7 +1,4 @@
 # Netflix Show Suggester
-## SUGGESTION: You should consider watching Trailer Park Boys!
-## Need another suggestion? y/n
-## SUGGESTION: You should consider watching The Midnight Gospel!
-## Need another suggestion? y/n
-## n
-## Enjoy your show or movie!
+## [What should I watch?]
+## You should consider watching Breaking Bad!
+## You should consider watching The Midnight Gospel!
