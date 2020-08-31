@@ -10,7 +10,7 @@ import tkinter as Tk
 page = requests.get('https://en.wikipedia.org/wiki/List_of_Netflix_original_programming')
 soup = BeautifulSoup(page.text, 'html.parser')
 
-print('\nNetflix Movie or Show Suggestions\n')
+print('\nNetflix Show Suggester')
 exit = False
 suggestion = 'y'
 while exit == False:
@@ -26,7 +26,7 @@ while exit == False:
             #title = titles[0]
             title_list.append(titles)
         choice = random.choice(title_list)
-        print('SUGGESTION: You should consider watching ' + str(choice[0]) + '!\n')
+        print('SUGGESTION: You should consider watching ' + str(choice[0]) + '!')
         print('Need another suggestion? y/n')
         suggestion = input()
     elif (suggestion.lower() == 'n'):
