@@ -1,5 +1,4 @@
-# Netflix Show Suggester
+# Show Suggester
 ## [What should I watch?]
-## You should consider watching Breaking Bad!
-## You should consider watching The Midnight Gospel!
-# RestaurantDecider
+## You should watch Your Honor on Prime Video!
+## You should watch Bojack Horseman on Hulu!
