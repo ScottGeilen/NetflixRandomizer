@@ -12,7 +12,7 @@ root = Tk()
 root.geometry('3000x1300')
 root['background'] = '#293361'
 
-myLabel = Label(root, text="Show or Movie Selector", bg='#293361', fg='white', )
+myLabel = Label(root, text="Show or Movie Selector", bg='#293361', fg='white')
 myLabel.config(font=("Courier", 32))
 myLabel.pack()
 
